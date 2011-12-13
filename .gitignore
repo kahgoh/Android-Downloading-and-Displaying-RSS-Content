@@ -2,5 +2,6 @@
 .settings
 bin
 target
+gen
 *.swp
 *~
